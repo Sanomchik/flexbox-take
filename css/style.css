@@ -2965,6 +2965,8 @@ a {
     min-width: 500px; } }
 
 @media only screen and (max-width: 950px) {
+  .section-5__text {
+    padding-top: 20px; }
   .section-3__item__1 {
     -webkit-box-flex: 1;
     -webkit-flex: 1;
